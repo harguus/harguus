@@ -1,13 +1,13 @@
 ### :man_technologist: About Me :
-I am a Mobile Developer from Brazil.
+I am a Mobile Developer.
 
 - :telescope: I'm working as a Hybrid Mobile Developer using Flutter technology as the main development framework and venturing into Flutter Web.
 
-- :seedling: Improving my skills and looking for better development techniques..
+- :seedling: Improving my skills and looking for better development techniques...
 
 - :zap: In my spare time, when I can, I disconnect from the world, I go camping, hiking and socializing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-thiagocristianotavare-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocristianotavares/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-thiagocristianotavares-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocristianotavares/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -20,7 +20,7 @@ I am a Mobile Developer from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+#
 <div id="header">
   <a href="">
   <img style="max-width: 100%;" height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=harguus&count_private=true&count_private=true&show_icons=true&theme=merko" />
